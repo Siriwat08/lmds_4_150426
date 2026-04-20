@@ -1,8 +1,8 @@
-# 🚛 Logistics Master Data System (LMDS) — V4.2
+# 🚛 Logistics Master Data System (LMDS) — V5.0 Enterprise
 
 ![Google Apps Script](https://img.shields.io/badge/Platform-Google_Apps_Script-0F9D58?style=flat-square&logo=google)
 ![Gemini AI](https://img.shields.io/badge/AI_Engine-Gemini_1.5_Flash-8E75B2?style=flat-square&logo=google)
-![Version](https://img.shields.io/badge/Version-4.2_Enterprise-blue?style=flat-square)
+![Version](https://img.shields.io/badge/Version-5.0_Enterprise-blue?style=flat-square)
 
 ระบบจัดการฐานข้อมูล Logistics อัจฉริยะ สำหรับ **SCG JWD** พัฒนาด้วย Google Apps Script ทำหน้าที่จัดการ Master Data ลูกค้า, ประมวลผลพิกัด GPS, นำเข้าข้อมูลการจัดส่งจาก SCG, จัดการคิวพิกัด และรองรับระบบค้นหาด้วย AI ผ่าน WebApp
 
